@@ -1,2 +1,3 @@
 Criação de uma Página Inicial de um Site
 -Criar Menu Superior.
+-Criar Banner da Página.
